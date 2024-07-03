@@ -5,6 +5,8 @@
 </p>
 <p align="center">Shirakowo</p>
 
+Personal Github Page: https://shirakowo.github.io
+
 # Accounts
 Github: [Shirakowo](https://github.com/Shirakowo) \
 Twitter (X): [Shirakowo](https://x.com/Shirakowo) \
