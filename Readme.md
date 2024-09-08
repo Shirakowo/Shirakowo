@@ -6,9 +6,12 @@
 <p align="center">Shirakowo</p>
 
 Personal Github Page: https://shirakowo.github.io
+## Intro
+Hi! Here is Shirako! I am a game developer mostly using Java and JS/TS\
+Now I am trying to use Unity and C# to develop games
 
-# Accounts
+## Accounts
 Github: [Shirakowo](https://github.com/Shirakowo) \
 Twitter (X): [Shirakowo](https://x.com/Shirakowo) \
 YouTube: [Shirako](https://youtube.com@Shirako-0) \
-osu!: [Elective](https://osu.ppy.sh/users/34321503)
+itch.io: [Shirako](https://shirakowo.itch.io)
